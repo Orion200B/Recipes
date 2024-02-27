@@ -1,0 +1,15 @@
+body{
+    font-family: cursive;
+    background-color: #F2C18D;
+}
+
+h1{
+    font-size: 60px;
+    color: #F6F193;
+    font-weight: bold;
+}
+
+li{
+    font-size: 30px;    
+    background-color: #C5EBAA;
+}
